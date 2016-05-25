@@ -1,0 +1,10 @@
+Here's an impelmentation of the ACM Sigmod 2015 Programming Contest.
+
+There can be a multithreaded or singlethreaded.
+
+The ACID principle, mandating atomicity, consistency, isolation and durability is one of the cornerstones of relational database management systems. In order to achieve the third principle, isolation, concurrent reads and writes must be handled carefully.
+
+Running the program is easy by typing 
+	./project < "inputFile" > "outFile"
+where "inputFile" is one of the contents of inputs folder and "OutFile" stores a sequence of 0 and 1 representing 
+the results of each validation. 
